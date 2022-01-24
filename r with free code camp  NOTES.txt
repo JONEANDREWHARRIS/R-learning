@@ -1,0 +1,51 @@
+R PACKAGES 
+----------
+Base 
+not loaded packages
+by default 
+----
+Contributed (third party packages)
+Need to be downloaded,installed & loaded separately
+----
+PACKAGES ARE FOUND IN
+CRAN - Comprehensive R Archive Network
+this is also listed by according to the function that can do
+offical R site with the offical documentation
+----
+Cranctasstic!
+this is for listing thing but when click the package it will go back to the CRAN 
+this is listed by the most recent and the popular ones
+
+---
+you can also get it from the gihub
+by /trending/r if you go there you can see the most trending most frequently and most common packages.
+--------
+mostly package used by the free coding camp tutor 
+dplyr - for manipulating data frams
+tidyr - for cleaning up information
+stringr - for working with strings and txt
+lubridate - for manipulate date info
+httr - wrking with web site data
+ggvis - grammar for graphs for interactive viz.
+ggplot2 - is commonly used data viz. packaage
+shiny - create interactive applicatsion that you can install on web ssites
+rio - is for importing and exporting data
+rmarkdown - is for interactive notes
+-----
+ONE PACKAGE TO LOAD THEM ALL - pacman(PACKAGE MANAGER)
+-----
+going to r 
+----------------------------
+basic graphis 
+plot().
+basic x-y plotting.
+* it adapts to data types & no. of variables that we are dealing with
+* try it in r
+
+
+
+ 
+
+
+
+
